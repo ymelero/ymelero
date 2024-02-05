@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ymelero 
-- 👀 I’m interested in ecology and windsurfing. Unrelated...
+- 👀 I’m interested in ecology (and windsurfing).
 - 🌱 I’m currently learning to use github!
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me via email y.melero@creaf.uab.cat
